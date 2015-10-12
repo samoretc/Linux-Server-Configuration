@@ -1,8 +1,8 @@
-Please view my catalog application at 
+## Linux Server
 
-URL: http://ec2-52-26-135-232.us-west-2.compute.amazonaws.com/
-IP Address: 52.25.135.232
-SSH Port: 2200
+URL: http://ec2-52-26-135-232.us-west-2.compute.amazonaws.com/ <br>
+IP Address: 52.25.135.232 <br>
+SSH Port: 2200 <br>
 
 Software packages were installed via the commandline. 
 The software installed included: 
