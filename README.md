@@ -9,7 +9,7 @@ The software installed included:
 - Apache2 - Apache HTTP Server is the world's most popular web server. 
 - Python - Programming language used for the server. (Version 2.3 used)
 - Mod_wsgi - Mod_wsgi is an apache server module for python that is WSGI compliant. WSGI (Web Server Gateway Interface) is a low level specification for the interface between web servers and web applications written in python. 
-- Flask - Python framework used to build web application. 
+- Flask - Python framework used to build the catalog web application. 
 - PostgreSQL - Database used for web application. An additional user named Catalog was created. 
 - Git - Used as version control system
 
