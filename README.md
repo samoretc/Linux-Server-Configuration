@@ -1,7 +1,7 @@
 ## Linux Server Configuration
 
 URL: http://ec2-52-26-135-232.us-west-2.compute.amazonaws.com/ <br>
-IP Address: 52.25.135.232 <br>
+IP Address: 52.26.135.232 <br>
 SSH Port: 2200 <br>
 
 Software packages were installed via the commandline. 
